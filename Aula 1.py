@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 # Automação de Sistemas e Processos com Python
 ### Desafio:
